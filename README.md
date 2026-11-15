@@ -32,3 +32,8 @@ Experiencia en desarrollo de software, gestión de proyectos tecnológicos, admi
 
 Estoy enfocado en fortalecer mis conocimientos en desarrollo de software, ampliar mi portafolio de proyectos y participar en nuevos retos tecnológicos.
 
+## Contacto
+
+- **LinkedIn:** [Mi perfil profesional](https://www.linkedin.com/in/jorge-alexis-paz-barrera/)
+- **Portafolio web:** [Conoce mis proyectos](https://jorge-alexis-paz-barrera.pages.dev/)
+
